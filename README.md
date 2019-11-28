@@ -1,2 +1,0 @@
-# IntelligentOptimizationAlgorithm
-进化优化算法
